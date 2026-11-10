@@ -10,15 +10,16 @@
 | --- | --- |
 | 3–5 个辨识点 | 从脸形与下颌、发际线或分缝、眉眼关系、鼻形、标志性配饰中选。优先写不易互换的细节，例如「中分、两束鬓发、低马尾」。 |
 | 头部结构 | 按[面部结构与局部修订](face-structure.md)记录侧倾、头部朝向、眼轴、鼻口中线、双侧颊宽及下颌弧线。 |
-| 眼睛与神态 | 分别看两眼的长宽、眼睑遮盖、视线和不对称，再单独记录眉头、嘴角及闭口或露齿。标记和表情、辨识度相关的法令纹、笑纹等，记录左右侧可见程度。 |
-| 姿态与衣着 | 按本人照记头部倾斜、肩线、保留的手势，以及衣着底色、图案色与配饰。 |
-| 截线 | 优先用可见物定位。默认从发顶到胸下缘和上腹交界，截线低于主要胸前衣着细节、高于自然腰线。画出两侧肩线及肩缘到上臂的过渡，给肩缘留出透明边距。靠胸或向外伸出的手势都按本人照画出连续形体。确需侧裁时，在拼接时由同侧画布边缘截去外伸手臂。只有头像时按可见衣着保守延展。 |
+| 眼睛与神态 | 分别记录两眼的横向眼宽、纵向开口、眼距、眼轴倾斜、眼睑遮盖、视线及两侧差异。另记眉头、嘴角、闭口或露齿，以及与辨识度相关的法令纹或笑纹。 |
+| 头肩比例 | 在同一视角下，用含头发主体的可见头宽除以双侧肩端的跨度，排除零散发丝、头饰、肩包和外伸手臂。出图时沿用主照比例；遮挡或透视较强时按可见结构或同角度辅助照估计。 |
+| 姿态与衣着 | 截切前先锁定关键动作，按画面左／右记录肩、肘、前臂和手的走向及接触位置，再记衣着和配饰。叉腰要写清哪侧手落在腰上、肘如何向外弯、前臂如何向内收。 |
+| 截线 | 通常从发顶画到胸下缘与上腹交界，用衣着地标定位。锁定的动作跨过截线时，人物层先延伸到能画全动作的位置，例如叉腰画到手与腰的接点。拼接时再让外伸部分沿画框自然截断，优先选能保留动作辨识度的画幅。若用户明确固定裁幅，在范围内尽量保留肘弯、前臂走向和手与身体的关系。只有头像时按可见衣着保守延展。 |
 
 ## 2. 固定画法
 
 | 项目 | 画到什么程度 |
 | --- | --- |
-| 卡通化 | 头部稍大，脸形按本人概括。保留眼轴斜率、长宽关系、眼角方向、视线和左右差异。可以轻提眼睑开口，歪头或转脸时优先保持两眼原有比例。 |
+| 卡通化 | 按主照头肩比例定大小，用线条和色块概括脸形。女性人物的眼睛可画得略圆，轻微增加眼睑纵向开口，以下眼睑弧线变圆为主。保留原照横向眼宽、眼距、眼角落点、眼轴倾斜、视线和左右侧的透视差异。 |
 | 黑墨勾线 | 用近黑墨色（如 #201D19）沿发顶、外露脸颊与下颌、肩线及袖缘落粗笔，笔压由重转轻，转折处自然收尖。外线约为五官内线的 1.5–2 倍。眉眼、鼻口用清楚的中等线重和少量带收笔的短线，在缩图上仍可读。发束和衣缝的辅助线更轻，肩袖长轮廓尽量连贯。水平截边保留干净色块。 |
 | 辨识纹路 | 优先保留主照里影响表情和辨识度的线，例如笑时鼻翼到嘴角旁的法令纹。用一两笔顺结构的短弧概括，近侧与远侧按原照的可见程度处理。次要皮纹、密集眼下线和碎阴影并入大块明暗。 |
 | 面部上色 | 参考暖象牙亮面与克制的土色暗面。浅肤色可从 #F9EEDB 亮面与 #EBD2AE 浅赭阴影起步。额头、脸颊和鼻梁连成开阔亮区，发际、鼻侧、下颌和颈部落少量平涂，手和耳朵沿用同组色相。按本人肤色选择中等或深肤色亮面，暗面取同组稍深的低饱和暖棕。保留自然唇色，避免整脸粉红、金黄或渐变罩染。 |
@@ -33,11 +34,12 @@
 把方括号替换为本次观察所得。按实际上传顺序说明参考图各自的用途，只保留用到的输入。
 
 ```text
-Create a single personalized hand-drawn cartoon portrait. Keep the complete head, neck, both shoulders including their outer contours and transitions into the upper arms, and the torso down to the lower chest/upper abdomen, above the waist. Leave transparent space beyond both shoulders. Match any user-supplied crop reference. Retain the original gestures within that height. Draw any outstretched arm continuously past the planned cut so it can be cropped at the final poster border if needed. Leave out waist-level hands and lower body.
+Create a single personalized hand-drawn cartoon portrait. Keep the complete head, neck and both shoulder-to-arm transitions. Lock [key pose in viewer-left/right coordinates, including shoulder, elbow, forearm, hand and contact point] before choosing the crop. The usual portrait ends at the lower chest or upper abdomen. If a key gesture crosses that line, extend the source portrait to draw the full gesture before cropping in assembly. For a hand on the hip, draw the elbow bending outward, the forearm returning inward and the hand resting at the waist. Leave room for the gesture in the transparent source layer. Use the supplied crop instructions when composing the final frame.
 Reference roles in upload order: [main photo for identity, pose and clothing]; [auxiliary photo to clarify a specific feature, if used]; [crop reference for frame only, if used]; [style reference or bundled technique sheet for line weight, light and shadow placement, and marker handling only]; [palette for colors only, if used]. Do not borrow features, costume, or background from the style reference.
 Identity anchors: [3–5 distinguishing visible traits].
 Expression: [brow tension, eye opening and lids, gaze, asymmetry, mouth expression].
-Pose, clothing and crop: [head direction, shoulder line, retained gesture, clothing colors, accessories, and the exact visible landmark just above the crop edge]. Keep a natural neck and a slightly larger head. Keep the subject’s eye aspect ratios, lid angles, gaze and differences between the two eyes. A subtle increase in lid opening is optional if these relationships stay intact.
+Pose, clothing and crop: [head direction, shoulder line, retained gesture, clothing colors, accessories, and crop landmark]. Keep the visible head-width to shoulder-width ratio close to [observed reference ratio], including the main hair silhouette in the head width and excluding arms, bags and headwear from the measurement. Keep the neck attachment natural.
+Eyes: [horizontal widths, spacing, eye-axis tilt, gaze and perspective]. For a woman, make the eye shape a little rounder with a modest increase in vertical lid opening and a softer lower-lid arc. Preserve horizontal eye width, corner positions, spacing, eye-axis tilt, gaze and near/far-side differences.
 Head structure: [insert subject-specific head roll and turn, eye heights, nose-to-mouth-to-chin axis, and jaw contour from the face-structure guide].
 Make the drawing read as hand-inked on nearly white paper. Follow the supplied line-and-color benchmark when present. Use a bold, pressure-varied near-black brush-pen contour (#201D19 as a starting point) around the hair silhouette, exposed cheek and jaw, shoulders and sleeves. Taper the line at temples and hair tips. Use confident medium-weight near-black strokes for brows, lids, nose and mouth, with fewer marks and controlled tapers. Keep hair details and seams lighter. When a smile crease or nasolabial fold is characteristic and visible in the source, retain it with one or two economical tapered curves that follow the observed perspective. Merge minor wrinkles and fine tonal modeling into broad marker planes. Finish the horizontal torso crop with clean color shapes. Group hair into broad shapes and simplify clothing with broad pen and marker marks.
 Keep the forehead, cheeks and bridge of the nose in large, open light planes. Use warm ivory (#F9EEDB) with sparse, muted pale ochre-beige shadows (#EBD2AE) for light complexions. For medium and deep complexions, match the person's own base complexion and choose a restrained, slightly darker warm earth tone for shadow. Apply a few flat marks at the hairline, nose edge, jaw and neck, with corresponding tones on the ears and hand. After establishing the two-value light and shadow planes, optionally add one or two small highlights on lit areas such as the nose bridge, cheekbone or forehead. Match the light direction and use a tone slightly lighter than the subject's light plane. Use short, flat marker-brush strokes with defined edges and subtly irregular ends. Keep the highlights small and matte. Keep natural muted lips. Preserve garment colors with one broad shadow step per material. Avoid pink or yellow casts, orange washes, blush, tonal ramps and photographic skin texture.
@@ -51,8 +53,10 @@ Export a true transparent PNG outside the person. Keep near-white highlights ins
 | 检查 | 发现问题后的处理 |
 | --- | --- |
 | 头部结构自然 | 按[结构对照顺序](face-structure.md#首稿以本人主照定结构)并排检查双眼高低、鼻口中线、下巴落点、双侧颊宽和颈部连接。结构错误先修人物层。 |
+| 眼睛圆度与视线 | 女性人物的开口可略圆，逐眼对照眼角落点、原眼宽、眼距、眼轴倾斜和瞳孔朝向。若开口加大带来眼形或视线漂移，沿原眼角重调下眼睑弧线。 |
+| 头肩比例 | 将原照与人物稿按同一视角和接近的肩宽对照。头明显偏大时，按原照比例等比缩小整个头部，包括头发和五官，检查下颌到颈部、颈部到肩线是否接得自然。 |
 | 像本人且明显是手绘卡通 | 逐一核对事先写下的辨识点、视线和嘴角。脸画成通用模板时，补清眼形和个人特征；写实感重时，减少五官笔数和明暗层级。 |
-| 截线、动作符合参考 | 对照截边附近的衣着地标。确认头部、双侧肩缘和肩部到上臂的过渡完整。若肩部或外伸手臂在图层内突然截断，先补足形体。外伸手臂需要裁切时，留到拼接阶段处理。 |
+| 截线、动作符合参考 | 对照原照核对动作侧别、肘弯方向、前臂走向和手的落点。叉腰的人物源层要画全手与腰的接点；动作被改成垂臂时先修人物层。组版后再用缩图确认一眼可辨。 |
 | 肤色自然，亮面开阔 | 对照本人肤色与色卡相近组。浅肤色亮面读作暖象牙色，阴影是少量浅赭色块。出现粉红或金黄罩染时，只调肤色及阴影覆盖；手、耳和脖子一起核对。 |
 | 高光克制（如有） | 在缩图确认亮暗两块仍清楚。高光与光向一致，读成短促的马克笔笔触。过亮或过密时减少笔数和面积。 |
 | 外沿粗黑，五官线清楚 | 在缩图看发顶、颊缘、肩袖和眉眼鼻口。边线改粗时沿用原轮廓轨迹。五官内线太细时加重必要笔画，密集细线改为少量明确的结构线。 |

@@ -3,12 +3,13 @@
 ## 首稿以本人主照定结构
 
 - 用画面左／右记录双眼的相对高度和眼轴斜率、眉眼间距、鼻根到鼻尖的走向、唇线与嘴角、下巴落点和颈部接点。比较两侧颧颊宽度、下颌弧线及被头发遮住的边界。标注头部倾斜和转向，分别观察侧倾和透视缩短；角度用可见关系描述即可。
-- 将头颅、五官、颧颊和下颌视为同一个三维体块。保留原照的侧倾方向和幅度，让五官与轮廓一起转动。保留原照中眼线与唇线的相对关系、近远侧的自然差异，以及鼻、口、下巴沿面部中线的排列。以照片为准，避免把眼线拉平、单独推偏下巴、补齐被遮住的一侧或左右镜像。卡通化通过统一放大整个头部、简化线条和明暗实现；优先保留面部宽高和下颌形状。
+- 将头颅、五官、颧颊和下颌视为同一个三维体块。保留原照的侧倾方向和幅度，让五官与轮廓一起转动。保留原照中眼线与唇线的相对关系、近远侧的自然差异，以及鼻、口、下巴沿面部中线的排列。以照片为准，避免把眼线拉平、单独推偏下巴、补齐被遮住的一侧或左右镜像。卡通化优先通过简化线条与明暗实现。保留面部宽高、下颌形状以及主照的头肩比例。
+- 用同一视角的肩宽作基准比较头宽，头宽包含头发主体。若稿件的头相对肩过大，以头颈接点为定位基准等比缩小整颗头，包括发型、耳朵与五官。随后检查下巴、颈宽及领口与肩线的连接，按需只重接颈部。
 - 把本次观察写进人物提示词。出图后，在同一画面方向、接近头部尺寸下将主照与插画并排，先看双眼相对高低、鼻口中线和下巴，再看两边脸颊与下颌、发际遮挡和颈部连接。任何结构错位先回人物层校正，核对通过后再组版。
 
 提示词可补入：
 
-> Keep the same head roll and turn as the subject photo. [Describe the viewer-left and viewer-right eye heights, brow and mouth slant, nose-to-mouth-to-chin axis, cheek widths, jaw curve and chin position.] Draw the entire head as one coherent volume. Preserve the photo's foreshortening and occlusions. Simplify ink and color while keeping the relative landmark positions. Any cartoon enlargement applies uniformly to the whole head.
+> Keep the same head roll and turn as the subject photo. [Describe the viewer-left and viewer-right eye heights, brow and mouth slant, nose-to-mouth-to-chin axis, cheek widths, jaw curve and chin position.] Draw the entire head as one coherent volume. Preserve the photo's foreshortening and occlusions. Simplify ink and color while keeping the relative landmark positions. Match the subject’s visible head-width to shoulder-width ratio, including the main hair mass. If correction is needed, scale the whole head uniformly around its neck attachment and verify the neck and shoulders join naturally.
 
 ## 二改以最近认可稿锁定面部
 
