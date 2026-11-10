@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 560" width="400" height="560" role="img" aria-labelledby="title description">
+<title id="title">单人物 · 5:7 排版框线</title>
+<desc id="description">人物居中，双肩在画内。橙色轮廓为人物，圆点标出两侧肩缘。框线仅供排版时参考。</desc>
+<style>
+text { font-family: "Microsoft YaHei", "Noto Sans CJK SC", sans-serif; fill: #302d29; }
+.frame { fill: none; stroke: #48423a; stroke-width: 1.6; }
+.guide { fill: none; stroke: #93897d; stroke-width: 1; stroke-dasharray: 4 4; }
+.land { fill: #e9eddc; stroke: #647551; stroke-width: 1.9; stroke-linejoin: round; }
+.land-line { fill: none; stroke: #879673; stroke-width: 1.25; stroke-linecap: round; stroke-linejoin: round; }
+.portrait { fill: #f4ded3; stroke: #9d5540; stroke-width: 2; stroke-linejoin: round; }
+.shoulder { fill: #fcf8f4; stroke: #9d5540; stroke-width: 2; }
+.decor { fill: #ede8f1; stroke: #766089; stroke-width: 1.5; stroke-dasharray: 5 3; }
+.role { font-size: 17px; font-weight: 700; }
+.hint { font-size: 12px; fill: #685e54; }
+</style>
+<rect x="0" y="0" width="400" height="560" fill="#fcf8f4"/>
+<g id="guides">
+<path class="guide" d="M17.2 13 L17.2 550"/>
+<path class="guide" d="M382.8 13 L382.8 550"/>
+<path class="guide" d="M135.52 42 L264.48 42"/>
+</g>
+<g id="portrait">
+<path class="portrait" d="M80.96 560.00 L82.2 412.74 C83.44 358.49 93.36 331.37 115.68 307.34 C133.04 295.53 157.84 288.45 171.48 274.27 L173.96 247.89 C149.9 234.90 141.97 184.52 142.96 145.15 C143.95 83.34 167.02 42.00 200 42.00 C232.98 42.00 256.05 83.34 257.04 145.15 C258.03 184.52 250.1 234.90 226.04 247.89 L228.52 274.27 C242.16 288.45 266.96 295.53 284.32 307.34 C306.64 331.37 316.56 358.49 317.8 412.74 L319.04 560.00 Z"/>
+<circle class="shoulder" cx="115.68" cy="307.34" r="4.5"/>
+<circle class="shoulder" cx="284.32" cy="307.34" r="4.5"/>
+<text x="200" y="440.86" class="role" text-anchor="middle">人物</text>
+<text x="200" y="460.86" class="hint" text-anchor="middle">双肩留边</text>
+</g>
+<rect x="0.8" y="0.8" width="398.4" height="558.4" class="frame"/>
+</svg>
